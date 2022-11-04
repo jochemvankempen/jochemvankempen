@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+I'm a data scientist at [Connected-Energy](c-e-int.com) where I develop anomaly detection and preventative maintenance models. 
+
+## My GitHub Profile Stats
+And here's some stats that you might not know about my GitHub Contributions.
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jochemvankempen&theme=dark)](https://git.io/streak-stats)
