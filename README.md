@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-I'm a data scientist at [Connected-Energy](c-e-int.com) where I develop anomaly detection and preventative maintenance models. 
+I'm a data scientist at [Connected-Energy](https://c-e-int.com/) where I develop anomaly detection and preventative maintenance models. 
 
 ## My GitHub Profile Stats
 And here's some stats that you might not know about my GitHub Contributions.
